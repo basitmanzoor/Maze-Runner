@@ -3,8 +3,8 @@
 
 The goal of this project is to find the path from the start point to the end point in a maze without passing through any blockages. The user can provide the input maze using a 2D grid of integers, where 1 represents a blockage, 0 represents an open path, and 9 represents the end point. The application will display the solved maze on the GUI.
 <p float="left">
-  <img src="/SS/maze.png" width="300" />
-  <img src="/SS/maze2.png" width="300" />
+  <img src="/SS/maze.png" width="500" />
+  <img src="/SS/maze2.png" width="500" />
   
 </p>
 Requirements:
